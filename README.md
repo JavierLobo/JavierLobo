@@ -14,6 +14,7 @@ Me puedes encontrar en las siguientes redes sociales que suelo usar:
 <a href="https://hub.docker.com/u/javixulobo/">
   <img align="left" alt="Docker Hub de Javier" width="22px" src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" />
 </a>
+<br/>
 
 ## Algunas cosas personales de la que te puedo hablar
 - 🔭 Actualmente estoy trabajando con cosas guais que molan mucho.

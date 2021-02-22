@@ -6,13 +6,13 @@ Mi nombre es Javier Lobo y soy programador desde hace mucho tiempo. A lo largo d
 Me puedes encontrar en las siguientes redes sociales que suelo usar:
 
 <a href="https://www.linkedin.com/in/javixulobo/">
-  <img align="left" alt="LinkedIN de Javier" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN de Javier" width="22px" src="./assets/linkedin-logo.svg" />
 </a>
 <a href="https://www.codewars.com/users/JavierLobo">
-  <img align="left" alt="Codewars de Javier" width="22px" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" />
+  <img align="left" alt="Codewars de Javier" width="22px" src="./assets/code-wars-logo.png" />
 </a>
 <a href="https://hub.docker.com/u/javixulobo/">
-  <img align="left" alt="Docker Hub de Javier" width="22px" src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" />
+  <img align="left" alt="Docker Hub de Javier" width="22px" src="./assets/docker-logo.png" />
 </a>
 <br/>
 
